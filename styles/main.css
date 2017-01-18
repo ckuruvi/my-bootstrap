@@ -6,6 +6,7 @@
 #cat-photos div {
   overflow: hidden;
   max-height: 90px;
+  /*border:1px solid;*/
 }
 
 img {
